@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-scale '/home/rafe/images/cyberpunkbg.jpg' '/home/rafe/Downloads/1070734_cyberpunk-city-wallpaper.jpg' '/home/rafe/images/cityscape_53.png' 
